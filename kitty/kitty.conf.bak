@@ -2708,6 +2708,6 @@ cursor_shape_unfocused hollow
 
 
 # BEGIN_KITTY_THEME
-# Adapta Nokto Maia
+# 3024 Night
 include current-theme.conf
 # END_KITTY_THEME
