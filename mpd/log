@@ -1,0 +1,192 @@
+2025-04-02T01:05:53 exception: Failed to open "/home/srabon/.config/mpd/state": No such file or directory
+2025-04-02T01:07:36 exception: Failed to open "/home/srabon/.config/mpd/state": No such file or directory
+2025-04-02T01:19:09 exception: Failed to open "/home/srabon/.config/mpd/state": No such file or directory
+2025-04-02T01:20:25 exception: Failed to open "/home/srabon/.config/mpd/state": No such file or directory
+2025-04-02T01:25:46 update: added /Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3
+2025-04-02T01:30:54 player: played "Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3"
+2025-04-02T01:32:23 player: played "Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3"
+2025-04-02T01:33:47 player: played "Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3"
+2025-04-02T01:34:35 player: played "Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3"
+2025-04-02T01:36:52 config: option "path" on line 433 was not recognized
+2025-04-02T01:41:35 player: played "Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3"
+2025-04-02T01:51:04 playlist: Failed to load "-rw-r--r-- 1 srabon srabon 6691454 Apr  2 01:09 Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3".
+2025-04-02T01:51:04 exception: Bad song index
+2025-04-02T01:52:10 playlist: Failed to load "Inochi ni Kirawareteiro.mp3".
+2025-04-02T01:52:14 exception: No such song
+2025-04-02T01:53:23 player: played "Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3"
+2025-04-02T02:02:18 playlist: Failed to load "AC-DC - Highway to Hell.mp3".
+2025-04-02T02:02:18 playlist: Failed to load "A Silent Voice - lit(var).mp3".
+2025-04-02T02:02:18 playlist: Failed to load "AURORA - Runaway.mp3".
+2025-04-02T02:02:18 playlist: Failed to load "Bob Dylan - Blowin_ in the Wind (Official Audio).mp3".
+2025-04-02T02:02:18 playlist: Failed to load "Bob Dylan - Mr. Tambourine Man (Official Audio).mp3".
+2025-04-02T02:02:18 playlist: Failed to load "Coldplay - Viva La Vida.mp3".
+2025-04-02T02:02:18 playlist: Failed to load "Coldplay - Yellow.mp3".
+2025-04-02T02:02:18 playlist: Further errors for this playlist will not be logged.
+2025-04-02T02:02:18 exception: Bad song index
+2025-04-02T02:02:22 exception: No such song
+2025-04-02T02:02:24 exception: No such song
+2025-04-02T02:02:24 exception: No such song
+2025-04-02T02:02:30 config: option "path" on line 433 was not recognized
+2025-04-02T02:03:32 exception: No such song
+2025-04-02T02:03:33 exception: No such song
+2025-04-02T02:03:55 update: added /Jon Bellion - All Time Low.mp3
+2025-04-02T02:03:55 update: added /Gym Class Heroes- Stereo Hearts ft. Adam Levine.mp3
+2025-04-02T02:03:55 update: added /Steins_Gate Opening Theme - Hacking to the Gate (Full Version).mp3
+2025-04-02T02:03:55 update: added /Hotel California (2013 Remaster).mp3
+2025-04-02T02:03:55 update: added /No Game No Life Opening.mp3
+2025-04-02T02:03:55 update: added /Green Day - Boulevard Of Broken Dreams [Official Music Video].mp3
+2025-04-02T02:03:55 update: added Bangla/Ekta Chhele  একটা ছেলে  I  Shahana  ।  Modern Bengali song  I  Bengal Jukebox.mp3
+2025-04-02T02:03:55 update: added Bangla/O hala chan.mp3
+2025-04-02T02:03:55 update: added Bangla/নিঠুর মনোহর । Nithur Monohor । Ishaan এর Gaan । Official Music Video.mp3
+2025-04-02T02:03:55 update: added Bangla/Aguner Din Shesh Hobe - আগুনের দিন শেষ হবে - HD - Alamgir & Jaya Prada - Ami Sei Meye - Anupam.mp3
+2025-04-02T02:03:55 update: added Bangla/এক পায়ে নুপুর আমার-Ek Paye Nupur Amar - Lyrics - Topu and Anila.mp3
+2025-04-02T02:03:55 update: added Bangla/Sorboto Mongol Radhe -- IPDC আমাদের গান -- Chanchal Chowdhury & Meher Afroz Shaon.mp3
+2025-04-02T02:03:55 update: added Bangla/Rabindra sangeet/Monomor Meghero Sangi.mp3
+2025-04-02T02:03:55 update: added Bangla/Rabindra sangeet/Sawan Gagane Ghor Ghanaghata - RabindraSangeet.mp3
+2025-04-02T02:03:55 update: added Bangla/Rabindra sangeet/Ami Tomaro Shonge Bedhechi - Raj Barman - Rabindra Sangeet - Unplugged Cover.mp3
+2025-04-02T02:03:55 update: added Bangla/Rabindra sangeet/CHARON DHORITE DIYO GO - ARUNDHATI HOLME CHOWDHURY.mp3
+2025-04-02T02:03:55 update: added Bangla/Rabindra sangeet/Sokol Dukher Prodip -- সকল দুখের প্রদীপ -- Rezwana Choudhury Bannya - Rabindra Sangeet - G Series.mp3
+2025-04-02T02:03:55 update: added Bangla/Rabindra sangeet/Badhu Kon Alo Laaglo Chokhe with lyrics - Arundhati Holme Chowdhury-Rabindranath Tagore-Dadar Kirti.mp3
+2025-04-02T02:03:55 update: added Bangla/Jagorane Jay Bibhabari -Hemanta Mukherjee -Rabindra Sangeet.mp3
+2025-04-02T02:03:55 update: added Bangla/Ke Tumi Tandra Harani - Manna Dey [Remastered].mp3
+2025-04-02T02:03:55 update: added Bangla/Nazrul geeti/Mor Priya Hobe Eso Rani - Milan Biraha Gatha - Manabendra Mukherjee - Audio.mp3
+2025-04-02T02:03:55 update: added Bangla/Nazrul geeti/দেব খোঁপায় তারার ফুল -নজরুল গীতি - শ্রীকান্ত আচার্য.mp3
+2025-04-02T02:03:55 update: added Bangla/Nazrul geeti/Mor Ghumo Ghore Ele Manohar - Anuradha Paudwal [Remastered].mp3
+2025-04-02T02:03:55 update: added Bangla/Nazrul geeti/Alga korogo khopar badhon (Nazrulgeeti) - Masha Islam (Cover).mp3
+2025-04-02T02:03:55 update: added Bangla/Vibe - Odhora.mp3
+2025-04-02T02:03:55 update: added Bangla/Gaibo na - Sumon & Anila.mp3
+2025-04-02T02:03:55 update: added Bangla/TAPA TINI - OFFICIAL VIDEO SONG - BELASHURU - ANINDYA-UPALI-IMAN-KHNADA - NANDITA SHIBOPROSAD.mp3
+2025-04-02T02:03:55 update: added Bangla/Eita Tomar Gaan.mp3
+2025-04-02T02:03:55 update: added Bangla/Mohiner Ghoraguli - Bhalo Lage.mp3
+2025-04-02T02:03:55 update: added Bangla/Chole gecho tate ki notun ekta peyechi collect  hasan.mp3
+2025-04-02T02:03:55 update: added Bangla/Amar Hath Bandhibi - Bangla Folk Song - Sahana Bajpaie - Official - Music Video.mp3
+2025-04-02T02:03:55 update: added Bangla/অবিদিত, জানো কি- (Obidito, Jano Ki-) - Syed Farhad - Hatirpool Sessions_2.mp3
+2025-04-02T02:03:55 update: added Bangla/Duti Mon Aar Nei - Audio - Chitra Singh - Satinath Mukherjee - Shyamal Gupta.mp3
+2025-04-02T02:03:55 update: added Bangla/জ্যামাইকা ফেয়ারওয়েল - Jamaica Farewell - Hatirpool Sessions - Season 2.mp3
+2025-04-02T02:03:55 update: added Bangla/Nisha Lagilo Re -- IPDC আমাদের গান -- Chanchal Chowdhury & Meher Afroz Shaon.mp3
+2025-04-02T02:03:55 update: added Bangla/শহরের দুইটা গান - Shohorer Duita Gaan - Hatirpool Sessions - Season 2.mp3
+2025-04-02T02:03:55 update: added Bangla/DOL DOL DULUNI -- IPDC আমাদের গান -- Fazlur Rahman Babu.mp3
+2025-04-02T02:03:55 update: added Bangla/মেঘ ডাখের  - Megh Daakher - Dindūn - Hatirpool Sessions - Season 2.mp3
+2025-04-02T02:03:55 update: added Bangla/Indalo - Ekanto Golaap.mp3
+2025-04-02T02:03:55 update: added Bangla/Tapur Tupur - Rosogolla - Pavel - Nandita - Shiboprosad - Arnab Dutta - Latest Bengali Film Song.mp3
+2025-04-02T02:03:55 update: added Bangla/Preme Poreche Mon - প্রেমে পড়েছে মন - Srabanti - Sabina Yasmin - Wrong Number - Bangla Movie Song.mp3
+2025-04-02T02:03:55 update: added /Joji - YEAH RIGHT.mp3
+2025-04-02T02:03:55 update: added /The Journeymen - 500 miles [Original Version] (1961).mp3
+2025-04-02T02:03:55 update: added /Nick Cave And The Bad Seeds - Red Right Hand (Peaky Blinders OST).mp3
+2025-04-02T02:03:55 update: added /Coldplay - Yellow.mp3
+2025-04-02T02:03:55 update: added /Violent Femmes- Good Feeling.mp3
+2025-04-02T02:03:55 update: added /Ed Sheeran - Photograph.mp3
+2025-04-02T02:03:55 update: added /AURORA - Runaway.mp3
+2025-04-02T02:03:55 update: added /Raag Ahir Bhairav in Bansuri (flute) by D. Madhusudan.mp3
+2025-04-02T02:03:55 update: added /fish in the pool・花屋敷.mp3
+2025-04-02T02:03:55 update: added /Pixies - Where Is My Mind. (Official Lyric Video).mp3
+2025-04-02T02:03:55 update: added The beatles/IMAGINE. (Ultimate Mix, 2020) - John Lennon & The Plastic Ono Band (with the Flux Fiddlers) HD.mp3
+2025-04-02T02:03:55 update: added The beatles/The Beatles - Yellow Submarine.mp3
+2025-04-02T02:03:55 update: added The beatles/Let It Be (Remastered 2009).mp3
+2025-04-02T02:03:55 update: added The beatles/The Beatles - Penny Lane.mp3
+2025-04-02T02:03:55 update: added The beatles/The Beatles - Eleanor Rigby (From _Yellow Submarine_).mp3
+2025-04-02T02:03:55 update: added The beatles/I Want To Hold Your Hand (Remastered 2015).mp3
+2025-04-02T02:03:55 update: added The beatles/Yesterday (Remastered 2009).mp3
+2025-04-02T02:03:55 update: added The beatles/Hey Jude (Remastered 2015).mp3
+2025-04-02T02:03:55 update: added The beatles/The Beatles - While My Guitar Gently Weeps.mp3
+2025-04-02T02:03:55 update: added The beatles/Blackbird (Remastered 2009).mp3
+2025-04-02T02:03:55 update: added /Maroon 5 - Memories.mp3
+2025-04-02T02:03:55 update: added /Coldplay - Viva La Vida.mp3
+2025-04-02T02:03:55 update: added /I_m here with you too.mp3
+2025-04-02T02:03:55 update: added /Led Zeppelin - Stairway To Heaven (Official Audio).mp3
+2025-04-02T02:03:55 update: added /Megh Bolechhe.mp3
+2025-04-02T02:03:55 update: added /Green Day - 21 Guns [Official Music Video].mp3
+2025-04-02T02:03:55 update: added Classical/Chopin/Chopin - Etude Op. 25 No. 11 (Winter Wind) - Rosseau.mp3
+2025-04-02T02:03:55 update: added Classical/Chopin/Chopin - Etude Op. 25 No. 5 (Wrong Note) - Rosseau.mp3
+2025-04-02T02:03:55 update: added Classical/Chopin/Chopin - Ballade No. 1 in G Minor (1M special) - Rosseau.mp3
+2025-04-02T02:03:55 update: added Classical/Vivaldi/Vivaldi - La Follia.mp3
+2025-04-02T02:03:55 update: added Classical/Satie/Gymnopédie No. 1 on Guitar - Brandon Acker.mp3
+2025-04-02T02:03:55 update: added Classical/Mozart/Mozart - Twinkle Twinkle Little Star (12 variations on Ah vous dirai-je, Maman) - Rosseau.mp3
+2025-04-02T02:03:55 update: added /Gnossienne No. 1.mp3
+2025-04-02T02:03:55 update: added /M01 Chant I - Making of Cyborg - Kenji Kawai (Ghost in the Shell Soundtrack)_2.mp3
+2025-04-02T02:03:55 update: added /Bob Dylan - Mr. Tambourine Man (Official Audio).mp3
+2025-04-02T02:03:55 update: added /Standard recording 154.mp3
+2025-04-02T02:03:55 update: added /Bob Dylan - Blowin_ in the Wind (Official Audio).mp3
+2025-04-02T02:03:55 update: added /etxrnall - your love is my drug (8bit slowed).mp3
+2025-04-02T02:03:55 update: added /Lady Gaga, Bradley Cooper - Shallow (from A Star Is Born).mp3
+2025-04-02T02:03:55 update: added /AC-DC - Highway to Hell.mp3
+2025-04-02T02:03:55 update: added Pink floyd/Comfortably Numb.mp3
+2025-04-02T02:03:55 update: added Pink floyd/Wish You Were Here.mp3
+2025-04-02T02:03:55 update: added Pink floyd/Hey You.mp3
+2025-04-02T02:03:55 update: added Pink floyd/Mother.mp3
+2025-04-02T02:03:55 update: added /Kirameki.mp3
+2025-04-02T02:03:55 update: added Favorites/【感情を込めて】ハレハレヤ 歌ってみた ver.Sou.mp3
+2025-04-02T02:03:55 update: added Favorites/Binks no sake - jpn.mp3
+2025-04-02T02:03:55 update: added Favorites/mon mor megher sangi - chaiti.mp3
+2025-04-02T02:03:55 update: added Favorites/চৈত্রের কাফন (মহীনের ঘোড়াগুলি, ১৯৭৯) - The Shroud of Spring (Moheener Ghoraguli, 1979).mp3
+2025-04-02T02:03:55 update: added Favorites/Binks no sake - en.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Ouchi ni Kaero _ おウチに帰ろ。.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Member Shoukai...... Tekina _ メンバー紹介……的な.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST- Aku Dakumi - 悪だくみ.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST- Soine _ そいね.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Accordion desu...... _ アコーディオンです…….mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Omo~i Funiki _ おも~い雰囲気.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Ana nie _ アナん家.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Houkago _ 放課後.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Mimizawari Nagita~ _ 耳障りなぎた~.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST- No~nbiri na Theme _ ノ~ンびりなテーマ.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Aikyanto, Supii Kuin Gurishhi! _ あいきゃんと、すぴーくいん ぐりっしゅ!.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Tenkou Debut _ 転校デビュー.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST- Hotto Suru Theme _ ホッとするテーマ.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Kawaii, wa Seigi! _ かわいいは、正義!.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST_ Ne, Futoshi...... _ ねぇ、太…….mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST- O Mari - お茉莉!.mp3
+2025-04-02T02:03:55 update: added Ichigo mashimaro/Ichigo Mashimaro OST- Chichanka _ ちーちゃん家.mp3
+2025-04-02T02:03:55 update: added /A Silent Voice - lit(var).mp3
+2025-04-02T02:03:55 update: added Temp/Messenger_creation_8a973fa6-6b29-4556-88ce-1d0a824e96e9.mp4
+2025-04-02T02:03:55 update: added /Green Day - Wake Me Up When September Ends.mp3
+2025-04-02T02:03:55 update: added /John Denver - Take Me Home, Country Roads (Official Audio).mp3
+2025-04-02T02:03:55 update: added /John Mayer - Neon (Live In LA).mp3
+2025-04-02T02:03:55 update: added /halo_around_the_moon.mp3
+2025-04-02T02:03:55 update: added /Radiohead - Creep.mp3
+2025-04-02T02:03:55 update: added /K_Naan - Wavin_ Flag.mp3
+2025-04-02T02:03:55 update: added /Wind - Akeboshi.mp3
+2025-04-02T02:03:55 update: removing Jhol Coke Studio Pakistan Season 15 Maanu x Annural Khalid.mp3
+2025-04-02T02:04:45 player: played "halo_around_the_moon.mp3"
+2025-04-02T02:14:58 update: added Hindi/Afreen Afreen ｜ Aankhe Dekhi ｜ Nauman Shafi [bRvYWMiisMY].webm
+2025-04-02T02:14:58 update: added Hindi/Jhol Instrumental ｜ Coke Studio Pakistan ｜ Maanu x Annural Khalid ｜ Ali & Shjr [FdVkJOBiE3k].mp3
+2025-04-02T02:14:58 update: added Hindi/Jhol ｜ Coke Studio Pakistan ｜ Season 15 ｜ Maanu x Annural Khalid [-2RAq5o5pwc].mp3
+2025-04-02T02:14:58 update: added Bob Dylan/Bob Dylan - Mr. Tambourine Man (Official Audio).mp3
+2025-04-02T02:14:58 update: added Bob Dylan/Bob Dylan - Blowin_ in the Wind (Official Audio).mp3
+2025-04-02T02:14:58 update: added Classical/Gnossienne No. 1.mp3
+2025-04-02T02:14:58 update: added Japanese/Steins_Gate Opening Theme - Hacking to the Gate (Full Version).mp3
+2025-04-02T02:14:58 update: added Japanese/No Game No Life Opening.mp3
+2025-04-02T02:14:58 update: added Japanese/fish in the pool・花屋敷.mp3
+2025-04-02T02:14:58 update: added Japanese/I_m here with you too.mp3
+2025-04-02T02:14:58 update: added Japanese/Kirameki.mp3
+2025-04-02T02:14:58 update: added Japanese/A Silent Voice - lit(var).mp3
+2025-04-02T02:14:58 update: added Japanese/halo_around_the_moon.mp3
+2025-04-02T02:14:58 update: removing halo_around_the_moon.mp3
+2025-04-02T02:14:58 update: removing Steins_Gate Opening Theme - Hacking to the Gate (Full Version).mp3
+2025-04-02T02:14:58 update: removing No Game No Life Opening.mp3
+2025-04-02T02:14:58 update: removing Kirameki.mp3
+2025-04-02T02:14:58 update: removing I_m here with you too.mp3
+2025-04-02T02:14:58 update: removing Gnossienne No. 1.mp3
+2025-04-02T02:14:58 update: removing fish in the pool・花屋敷.mp3
+2025-04-02T02:14:58 update: removing Bob Dylan - Mr. Tambourine Man (Official Audio).mp3
+2025-04-02T02:14:58 update: removing Bob Dylan - Blowin_ in the Wind (Official Audio).mp3
+2025-04-02T02:14:58 update: removing A Silent Voice - lit(var).mp3
+2025-04-02T02:15:10 exception: No such song
+2025-04-02T02:15:17 config: option "path" on line 433 was not recognized
+2025-04-02T02:15:24 exception: No such song
+2025-04-02T02:15:26 exception: No such song
+2025-04-02T02:15:40 exception: No such song
+2025-04-02T02:15:41 exception: No such song
+2025-04-02T02:15:41 exception: No such song
+2025-04-02T02:16:04 ffmpeg/opus: Could not update timestamps for skipped samples.
+2025-04-02T02:16:07 player: played "Hindi/Afreen Afreen ｜ Aankhe Dekhi ｜ Nauman Shafi [bRvYWMiisMY].webm"
+2025-04-02T02:17:26 config: option "path" on line 433 was not recognized
+2025-04-02T02:17:57 update: added Hindi/Afreen Afreen ｜ Aankhe Dekhi ｜ Nauman Shafi [bRvYWMiisMY].mp3
+2025-04-02T02:17:57 update: removing Hindi/Afreen Afreen ｜ Aankhe Dekhi ｜ Nauman Shafi [bRvYWMiisMY].webm
+2025-04-02T02:18:08 config: option "path" on line 433 was not recognized
+2025-04-02T02:24:34 player: played "Hindi/Afreen Afreen ｜ Aankhe Dekhi ｜ Nauman Shafi [bRvYWMiisMY].mp3"
+2025-04-02T02:27:17 player: played "Hindi/Jhol Instrumental ｜ Coke Studio Pakistan ｜ Maanu x Annural Khalid ｜ Ali & Shjr [FdVkJOBiE3k].mp3"
+2025-04-02T02:27:39 player: played "Temp/Messenger_creation_8a973fa6-6b29-4556-88ce-1d0a824e96e9.mp4"
+2025-04-02T02:29:59 player: played "Japanese/A Silent Voice - lit(var).mp3"
+2025-04-02T03:25:20 player: played "Hindi/Afreen Afreen ｜ Aankhe Dekhi ｜ Nauman Shafi [bRvYWMiisMY].mp3"
+2025-04-02T03:27:36 player: played "Hindi/Jhol Instrumental ｜ Coke Studio Pakistan ｜ Maanu x Annural Khalid ｜ Ali & Shjr [FdVkJOBiE3k].mp3"
