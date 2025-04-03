@@ -2,7 +2,7 @@ sw_volume: 90
 audio_device_state:1:my_fifo
 audio_device_state:1:My PipeWire Output
 state: stop
-current: 1
+current: 3
 random: 0
 repeat: 0
 single: 0
@@ -16,4 +16,6 @@ playlist_begin
 1:Hindi/Jhol Instrumental ｜ Coke Studio Pakistan ｜ Maanu x Annural Khalid ｜ Ali & Shjr [FdVkJOBiE3k].mp3
 2:Temp/Messenger_creation_8a973fa6-6b29-4556-88ce-1d0a824e96e9.mp4
 3:Japanese/A Silent Voice - lit(var).mp3
+4:AURORA - Runaway.mp3
+5:Hindi/Jhol ｜ Coke Studio Pakistan ｜ Season 15 ｜ Maanu x Annural Khalid [-2RAq5o5pwc].mp3
 playlist_end
